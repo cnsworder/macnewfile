@@ -1,9 +1,15 @@
 # MacNewFile
+MacOS finder's new file plugin, supporting user defined new file template.
+
+可以自定义模板文件的Finder新建文件插件
+
+![](imgs/c.png)
+
 
 
 ### Download
 
-
+[V1.0](https://github.com/majoressense/macnewfile/releases/tag/v1.0)
 
 
 
@@ -17,17 +23,15 @@
 
   Click the "Here" button to open the folder
 
-  ![](imgs/a.png)
-
 - Put your new file templates at the folder
-
-  ![](imgs/b.png)
 
 - Enjoy with Finder
 
-  ![](imgs/c.png)
 
 
+## Liscense
+
+DO WHAT EVER YOU WANT WITH NOT WARRANT
 
 
 
