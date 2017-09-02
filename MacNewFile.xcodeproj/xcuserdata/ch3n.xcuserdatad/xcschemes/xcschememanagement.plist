@@ -9,9 +9,19 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>NewFileEx.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>10D4B8491F594C6300A3B604</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>10E991141F594C3200F148EF</key>
 		<dict>
 			<key>primary</key>
