@@ -3,13 +3,13 @@ MacOS finder's new file plugin, supporting user defined new file template.
 
 可以自定义模板文件的Finder新建文件插件
 
-![](imgs/c.png)
+![](imgs/a.gif)
 
 
 
 ### Download
 
-[V1.0](https://github.com/majoressense/macnewfile/releases/tag/v1.0)
+[macnewfile-1.0.dmg](https://github.com/majoressense/macnewfile/releases/tag/v1.0)
 
 
 
@@ -27,11 +27,13 @@ MacOS finder's new file plugin, supporting user defined new file template.
 
 - Enjoy with Finder
 
+  ​
+
 
 
 ## Liscense
 
-DO WHAT EVER YOU WANT WITH NOT WARRANT
+DO WHAT EVER YOU WANT WITH NO WARRANTY
 
 
 
