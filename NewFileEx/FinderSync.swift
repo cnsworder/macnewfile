@@ -50,6 +50,22 @@ class FinderSync: FIFinderSync {
         do {
             let directoryContents = try FileManager.default.contentsOfDirectory(atPath: _fullPath.path)
             print(directoryContents)
+            
+            if (directoryContents.count == 0){
+                print("create init files")
+                let names = ["new.md", "new.txt"]
+                for name in names{
+                    
+                    let path = _fullPath.appendingPathComponent(name)
+                    do {
+                        try "".write(toFile: path.path, atomically: false, encoding: .utf8)
+                    } catch  {
+                        print("add file to \(path) failed : \(error.localizedDescription)")
+                    }
+                }
+            }
+            
+            
             return directoryContents
         } catch let error as NSError {
             print(error.localizedDescription)

@@ -22,7 +22,7 @@ class ViewController: NSViewController {
 
         // Do any additional setup after loading the view.
         
-        self.labelMain.stringValue = "PutFileTo".localized
+//        self.labelMain.stringValue = "PutFileTo".localized
     }
 
     override var representedObject: Any? {
